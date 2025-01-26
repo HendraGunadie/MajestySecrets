@@ -1,0 +1,31 @@
+/* 
+#CC7F2A; gold tua
+#F3B75B; gold muda
+#F9F1BF; cream
+#D8B5DE; ungu muda
+
+*/
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #D8B5DE;
+}
+
+
+.foto-produk img {
+   display: block;
+   margin: auto;
+   width: 100%;
+}
+
+.text-foto-produk {  
+    font-family: 'Times New Roman', Times, serif;  
+    margin: auto 15vw;
+    color:#CC7F2A ;
+}
+
+.manfaat, .komposisi, .cara-pemakaian{
+    margin: 100px 5vw;
+}
+
